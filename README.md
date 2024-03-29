@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SasiNisa
 - 👀 I’m interested in Developing Softwares
-- 🌱 I’m currently learning Artificial Intelligence 
+- 🌱 I’m currently learning Data Analytics for Business Decision Making 
 - 💞️ I’m looking to collaborate on creating GitHub Assignment
 - 📫 How to reach me through Email
 
